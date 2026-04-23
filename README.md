@@ -40,5 +40,5 @@ To ensure the simulation results align with the graphical output of the referenc
 To reproduce the performance curves:
 1.  Open the model in JSIMgraph.
 2.  Go to the **What-If Analysis** menu.
-3.  Set the Arrival Rate ($\lambda$) range from **1.0 to 2.0** with a step of **0.1**.
+3.  Set the Arrival Rate ($\lambda$) range from **1.0 to 2.0** with a step of **0.01**.
 4.  Run the simulation and view the results in the **Plots** tab.
