@@ -1,0 +1,2 @@
+arrival = 85 (Class 2, Low priority), 5 (Class 1, High Priority)
+h2 = prob = 0.1, u1 = 90,u2 = 540 (for both classes in the queue).
